@@ -27,6 +27,7 @@ fieldset {
     border: outset 30px 30px 30px;
     margin-top: 20px;
     margin-left: 10px;
+    margin-right: 3em;
 }
 
 .notificacoes-titulo {
